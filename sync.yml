@@ -1,4 +1,4 @@
 docker.io:
     tls-verify: false
     images:
-      whyour/qinglong: []
+     muze/qinglong: []
